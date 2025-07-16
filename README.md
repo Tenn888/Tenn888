@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я <span style="color:#ff0044;">Tenn888</span>!</h1>
 
-<!--
-**Tenn888/Tenn888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 **Хобби**
+> 🎮 Игры &nbsp;&nbsp; | &nbsp;&nbsp; 💻 Разработка &nbsp;&nbsp; | &nbsp;&nbsp; 🐧 Linux &nbsp;&nbsp; | &nbsp;&nbsp; 🔧 Эмуляция и моддинг
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 **Активные проекты**
+
+- 🐍 **[Snake](https://github.com/Tenn888/Snake)** — простая игра на Python с консольным управлением
+
+---
+
+## 🗂️ **Архивные проекты**
+
+- 🧊 **[Winlator-Bionic-Glibc](https://github.com/Tenn888/Winlator-Bionic-Glibc)** — запуск Windows-приложений на Android через Wine и Box86/64  
+- 🌐 **[NewsSite](https://github.com/Tenn888/NewsSite)** — сайт на Django для новостной ленты
+
+---
+
+## 📊 **GitHub статистика**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tenn888&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenn888&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tenn888&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ **Навыки и инструменты**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</p>
