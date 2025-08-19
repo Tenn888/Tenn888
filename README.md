@@ -9,7 +9,7 @@
 
 ## 🚧 **Активные проекты**
 
-- 🧊 **[Winlator--Glibc](https://github.com/Tenn888/Winlator)** — запуск Windows-приложений на Android через Wine и Box86/64  
+- 🧊 **[Winlator-Glibc](https://github.com/Tenn888/Winlator)** — запуск Windows-приложений на Android через Wine и Box86/64  
 
 ---
 
