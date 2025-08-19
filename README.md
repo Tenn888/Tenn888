@@ -9,13 +9,13 @@
 
 ## 🚧 **Активные проекты**
 
-- 🐍 **[Snake](https://github.com/Tenn888/Snake)** — простая игра на Python
+- 🧊 **[Winlator--Glibc](https://github.com/Tenn888/Winlator)** — запуск Windows-приложений на Android через Wine и Box86/64  
 
 ---
 
 ## 🗂️ **Архивные проекты**
 
-- 🧊 **[Winlator-Bionic-Glibc](https://github.com/Tenn888/Winlator-Bionic-Glibc)** — запуск Windows-приложений на Android через Wine и Box86/64  
+- 🐍 **[Snake](https://github.com/Tenn888/Snake)** — простая игра на Python
 - 🌐 **[NewsSite](https://github.com/Tenn888/NewsSite)** — сайт на Django для новостной ленты
 
 ---
