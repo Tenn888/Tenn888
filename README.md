@@ -9,7 +9,7 @@
 
 ## 🚧 **Активные проекты**
 
-- 🧊 **[Winlator-Glibc](https://github.com/Tenn888/Winlator)** — запуск Windows-приложений на Android через Wine и Box86/64  
+- 📝 **[Notes](https://github.com/Tenn888/Notes)** — простое приложение Заметок на Python с использованием библиотеки Tkinter
 
 ---
 
