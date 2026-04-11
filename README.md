@@ -9,12 +9,13 @@
 
 ## 🚧 **Активные проекты**
 
-- 📝 **[Notes](https://github.com/Tenn888/Notes)** — простое приложение Заметок на Python с использованием библиотеки Tkinter
+- 🌐 **[Client for AmneziaWG](https://github.com/Tenn888/Client-for-AmneziaWG)** — клиент для AmneziaWG
 
 ---
 
 ## 🗂️ **Архивные проекты**
 
+- 📝 **[Notes](https://github.com/Tenn888/Notes)** — простое приложение Заметок на Python с использованием библиотеки Tkinter
 - 🐍 **[Snake](https://github.com/Tenn888/Snake)** — простая игра на Python
 - 🌐 **[NewsSite](https://github.com/Tenn888/NewsSite)** — сайт на Django для новостной ленты
 
