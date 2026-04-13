@@ -24,12 +24,12 @@
 ## 📊 **GitHub статистика**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tenn888&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenn888&layout=compact&theme=radical" height="160"/>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tenn888&show_icons=true&theme=radical&cache_seconds=86400" height="160"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenn888&layout=compact&theme=radical&cache_seconds=86400" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tenn888&theme=radical&hide_border=true" />
+  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Tenn888&theme=radical&hide_border=true" />
 </p>
 
 ---
