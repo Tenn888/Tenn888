@@ -10,6 +10,8 @@
 ## 🚧 **Активные проекты**
 
 - 🌐 **[Client for AmneziaWG](https://github.com/Tenn888/Client-for-AmneziaWG)** — клиент для AmneziaWG
+- 🎬 **[revanced-extended-module](https://github.com/Tenn888/revanced-extended-module)** — модуль расширения для ReVanced
+- 🎮 **[WinlatorWCPHub](https://github.com/Tenn888/WinlatorWCPHub)** — хаб для Winlator WCP
 
 ---
 
