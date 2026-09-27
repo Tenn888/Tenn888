@@ -35,7 +35,9 @@
 </p>
 
 <p align="center">
-  <img alt="Streak Stats" src="https://streak-stats.demolab.com/?user=Tenn888&theme=radical&hide_border=true" />
+  <a href="https://github.com/Tenn888?tab=stars">
+    <img alt="Total stars" src="https://img.shields.io/github/stars/Tenn888?style=for-the-badge&label=Total%20stars&color=orange" />
+  </a>
 </p>
 
 ---
