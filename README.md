@@ -11,12 +11,12 @@
 
 - 🌐 **[Client for AmneziaWG](https://github.com/Tenn888/Client-for-AmneziaWG)** — клиент для AmneziaWG
 - 🎬 **[revanced-extended-module](https://github.com/Tenn888/revanced-extended-module)** — репозиторий для сборки YouTube ReVanced и YouTube Music ReVanced
-- 🎮 **[WinlatorWCPHub](https://github.com/Tenn888/WinlatorWCPHub)** — репозиторий компонентов .wcp для Winlator
 
 ---
 
 ## 🗂️ **Архивные проекты**
 
+- 🎮 **[WinlatorWCPHub](https://github.com/Tenn888/WinlatorWCPHub)** — репозиторий компонентов .wcp для Winlator
 - 📝 **[Notes](https://github.com/Tenn888/Notes)** — простое приложение Заметок на Python с использованием библиотеки Tkinter
 - 🐍 **[Snake](https://github.com/Tenn888/Snake)** — простая игра на Python
 - 🌐 **[NewsSite](https://github.com/Tenn888/NewsSite)** — сайт на Django для новостной ленты
