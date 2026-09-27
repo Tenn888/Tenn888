@@ -26,8 +26,12 @@
 ## 📊 **GitHub статистика**
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tenn888&show_icons=true&theme=radical&cache_seconds=86400" height="160"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenn888&layout=compact&theme=radical&cache_seconds=86400" height="160"/>
+  <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tenn888&theme=radical" />
+</p>
+
+<p align="center">
+  <img alt="Repositories per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tenn888&theme=radical" height="180" />
+  <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tenn888&theme=radical" height="180" />
 </p>
 
 <p align="center">
